@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimeCamera</string>
+    <string name="take_new_picture">Take picture</string>
+    <string name="taken_picture_desc">Taken picture</string>
+</resources>
